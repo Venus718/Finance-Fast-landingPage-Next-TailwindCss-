@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind component;
 @tailwind utilities;
+
+/* @import url("/public/assets/font/Satoshi_Complete/Fonts/WEB/css/satoshi.css");
+ */
+@import url("https://fonts.cdnfonts.com/css/satoshi");
